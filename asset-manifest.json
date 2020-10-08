@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DryFruits/static/css/main.704bb3df.chunk.css",
-    "main.js": "/DryFruits/static/js/main.2e91e5c0.chunk.js",
-    "main.js.map": "/DryFruits/static/js/main.2e91e5c0.chunk.js.map",
+    "main.js": "/DryFruits/static/js/main.380f95df.chunk.js",
+    "main.js.map": "/DryFruits/static/js/main.380f95df.chunk.js.map",
     "runtime-main.js": "/DryFruits/static/js/runtime-main.aa184d2a.js",
     "runtime-main.js.map": "/DryFruits/static/js/runtime-main.aa184d2a.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/DryFruits/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.88d67f0e.chunk.js": "/DryFruits/static/js/2.88d67f0e.chunk.js",
     "static/js/2.88d67f0e.chunk.js.map": "/DryFruits/static/js/2.88d67f0e.chunk.js.map",
     "index.html": "/DryFruits/index.html",
-    "precache-manifest.a3bcd0a893b5a7baaef5dda57aa2b70a.js": "/DryFruits/precache-manifest.a3bcd0a893b5a7baaef5dda57aa2b70a.js",
+    "precache-manifest.72aa811c56994001b16c116c0c2102e6.js": "/DryFruits/precache-manifest.72aa811c56994001b16c116c0c2102e6.js",
     "service-worker.js": "/DryFruits/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/DryFruits/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.704bb3df.chunk.css.map": "/DryFruits/static/css/main.704bb3df.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.88d67f0e.chunk.js",
     "static/css/main.704bb3df.chunk.css",
-    "static/js/main.2e91e5c0.chunk.js"
+    "static/js/main.380f95df.chunk.js"
   ]
 }
