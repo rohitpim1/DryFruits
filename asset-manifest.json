@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/DryFruits/static/css/main.704bb3df.chunk.css",
+    "main.js": "/DryFruits/static/js/main.2e91e5c0.chunk.js",
+    "main.js.map": "/DryFruits/static/js/main.2e91e5c0.chunk.js.map",
+    "runtime-main.js": "/DryFruits/static/js/runtime-main.aa184d2a.js",
+    "runtime-main.js.map": "/DryFruits/static/js/runtime-main.aa184d2a.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/DryFruits/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.88d67f0e.chunk.js": "/DryFruits/static/js/2.88d67f0e.chunk.js",
+    "static/js/2.88d67f0e.chunk.js.map": "/DryFruits/static/js/2.88d67f0e.chunk.js.map",
+    "index.html": "/DryFruits/index.html",
+    "precache-manifest.a3bcd0a893b5a7baaef5dda57aa2b70a.js": "/DryFruits/precache-manifest.a3bcd0a893b5a7baaef5dda57aa2b70a.js",
+    "service-worker.js": "/DryFruits/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/DryFruits/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.704bb3df.chunk.css.map": "/DryFruits/static/css/main.704bb3df.chunk.css.map",
+    "static/js/2.88d67f0e.chunk.js.LICENSE.txt": "/DryFruits/static/js/2.88d67f0e.chunk.js.LICENSE.txt",
+    "static/media/Anjeer.jpg": "/DryFruits/static/media/Anjeer.9feb53a4.jpg",
+    "static/media/about.jpg": "/DryFruits/static/media/about.62e613a9.jpg",
+    "static/media/background.jpg": "/DryFruits/static/media/background.e3e3b9d8.jpg",
+    "static/media/best.png": "/DryFruits/static/media/best.39b6924f.png",
+    "static/media/kismis.jpg": "/DryFruits/static/media/kismis.8cd5cfdd.jpg",
+    "static/media/premium.jpg": "/DryFruits/static/media/premium.662f5757.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa184d2a.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.88d67f0e.chunk.js",
+    "static/css/main.704bb3df.chunk.css",
+    "static/js/main.2e91e5c0.chunk.js"
+  ]
+}
