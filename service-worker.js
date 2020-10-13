@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DryFruits/precache-manifest.6dbe643df4496e1b4ce04705d3350da2.js"
+  "/DryFruits/precache-manifest.bf7a96197072bed2378e1e018036be6f.js"
 );
 
 self.addEventListener('message', (event) => {
