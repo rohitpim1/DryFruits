@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8da40bf95488f3be18e9b704e037d11",
+    "revision": "c20870c661fae9719b4c9d306eec5d93",
     "url": "/DryFruits/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DryFruits/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "7eb5107f06d1ad3c0931",
+    "revision": "8bb1f63348fe250e9e5e",
     "url": "/DryFruits/static/css/main.704bb3df.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DryFruits/static/js/2.88d67f0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7eb5107f06d1ad3c0931",
-    "url": "/DryFruits/static/js/main.380f95df.chunk.js"
+    "revision": "8bb1f63348fe250e9e5e",
+    "url": "/DryFruits/static/js/main.22b32c89.chunk.js"
   },
   {
     "revision": "ccb76ae70a19368c7678",
